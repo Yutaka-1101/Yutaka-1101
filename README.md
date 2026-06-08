@@ -1,16 +1,32 @@
-## Hi there 👋
+# こんにちは、高橋 です 👋
 
-<!--
-**Yutaka-1101/Yutaka-1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在COACHTECH　でWebアプリケーション開発を学習中です。
+卒業後はWeb系エンジニア志望です。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 使える技術
+
+- **バックエンド**: PHP / Laravel
+- **フロントエンド**: HTML5 / CSS / Blade
+- **データベース**: MySQL
+- **その他**: Docker / Git・GitHub
+
+## 📂 学習成果物
+
+COACHTECH 教材のハンズオンで作成したリポジトリです。
+
+- [task-api-practice](https://github.com/Yutaka-1101/api-setup-practice) -タスク管理API
+- [middleware-app-practice](https://github.com/Yutaka-1101/middleware-app-practice) -ミドルウェアの実装
+- 
+
+## 🌱 これから挑戦したいこと
+
+まずはWebエンジニアとして戦力になれるような人材になりたいです。
+
+## 📫 連絡先・リンク
+
+<!-- 載せたいものだけでOK。全部書く必要はない -->
+- Portfolio: <あれば貼る>
+- Twitter: [@your_twitter](https://twitter.com/your_twitter)
+- Email: your-email@example.com
